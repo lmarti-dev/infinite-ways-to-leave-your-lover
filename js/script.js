@@ -110,7 +110,7 @@ var add_line = function(rhymes_lists,verbs_list,simple_verbs_list,simple_adjs_li
 			possible_prepend.push("Just")
 		}
 		else if (expression_type === "adj"){
-			var expression = "no need to be "+thing+", "+name
+			var expression = "you don't need to be "+thing+", "+name
 		}
 		
 		if (Math.random() > .9){
