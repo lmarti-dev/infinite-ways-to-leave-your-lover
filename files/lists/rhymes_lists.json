@@ -1,0 +1,588 @@
+{
+    "Jack": {
+        "noun": [
+            "clack",
+            "crack",
+            "flack",
+            "knack",
+            "plack",
+            "shack",
+            "smack",
+            "snack",
+            "thack",
+            "thwack",
+            "whack",
+            "wrack"
+        ],
+        "adj": [
+            "crack"
+        ]
+    },
+    "Jude": {
+        "noun": [
+            "crude",
+            "prude"
+        ],
+        "adj": [
+            "crude"
+        ]
+    },
+    "Dean": {
+        "noun": [
+            "clean",
+            "skean",
+            "spean"
+        ],
+        "adj": [
+            "clean"
+        ]
+    },
+    "Grant": {
+        "noun": [
+            "chant",
+            "slant"
+        ],
+        "adj": [
+            "scant",
+            "slant"
+        ]
+    },
+    "Nash": {
+        "noun": [
+            "brash",
+            "clash",
+            "gnash",
+            "plash",
+            "smash",
+            "snash",
+            "splash",
+            "stash",
+            "thrash"
+        ],
+        "adj": [
+            "brash"
+        ]
+    },
+    "Kash": {
+        "noun": [
+            "brash",
+            "clash",
+            "gnash",
+            "plash",
+            "smash",
+            "snash",
+            "splash",
+            "stash",
+            "thrash"
+        ],
+        "adj": [
+            "brash"
+        ]
+    },
+    "Cash": {
+        "noun": [
+            "brash",
+            "clash",
+            "gnash",
+            "plash",
+            "smash",
+            "snash",
+            "splash",
+            "stash",
+            "thrash"
+        ],
+        "adj": [
+            "brash"
+        ]
+    },
+    "Crew": {
+        "noun": [
+            "brew",
+            "clew",
+            "crew",
+            "flew",
+            "shrew",
+            "skew",
+            "slew",
+            "smew",
+            "spew",
+            "stew",
+            "thew"
+        ],
+        "adj": [
+            "skew"
+        ]
+    },
+    "Tate": {
+        "noun": [
+            "crate",
+            "grate",
+            "prate",
+            "slate",
+            "spate"
+        ],
+        "adj": [
+            "blate",
+            "slate"
+        ]
+    },
+    "Chance": {
+        "noun": [
+            "chance",
+            "glance",
+            "prance",
+            "stance",
+            "trance"
+        ],
+        "adj": [
+            "chance"
+        ]
+    },
+    "Sean": {
+        "noun": [
+            "clean",
+            "skean",
+            "spean"
+        ],
+        "adj": [
+            "clean"
+        ]
+    },
+    "Jay": {
+        "noun": [
+            "bray",
+            "chay",
+            "cray",
+            "dray",
+            "fray",
+            "shay",
+            "splay",
+            "spray",
+            "stray",
+            "sway",
+            "tray"
+        ],
+        "adj": [
+            "splay",
+            "stray"
+        ]
+    },
+    "Reed": {
+        "noun": [
+            "bleed",
+            "breed",
+            "creed",
+            "gleed",
+            "greed",
+            "screed",
+            "steed"
+        ],
+        "adj": [
+            "treed"
+        ]
+    },
+    "Hank": {
+        "noun": [
+            "clank",
+            "crank",
+            "flank",
+            "plank",
+            "prank",
+            "shank",
+            "spank",
+            "stank",
+            "swank"
+        ],
+        "adj": [
+            "crank",
+            "swank"
+        ]
+    },
+    "Frank": {
+        "noun": [
+            "clank",
+            "crank",
+            "flank",
+            "plank",
+            "prank",
+            "shank",
+            "spank",
+            "stank",
+            "swank"
+        ],
+        "adj": [
+            "crank",
+            "swank"
+        ]
+    },
+    "Mack": {
+        "noun": [
+            "clack",
+            "crack",
+            "flack",
+            "knack",
+            "plack",
+            "shack",
+            "smack",
+            "snack",
+            "thack",
+            "thwack",
+            "whack",
+            "wrack"
+        ],
+        "adj": [
+            "crack"
+        ]
+    },
+    "Bo": {
+        "noun": [
+            "bro",
+            "dzo",
+            "rho",
+            "schmo",
+            "tho",
+            "typo",
+            "ufo",
+            "zho"
+        ]    
+    },
+    "Shawn": {
+        "noun": [
+            "brawn",
+            "prawn",
+            "spawn"
+        ],
+        "adj": [
+            "thrawn"
+        ]
+    },
+    "Drew": {
+        "noun": [
+            "brew",
+            "clew",
+            "crew",
+            "flew",
+            "shrew",
+            "skew",
+            "slew",
+            "smew",
+            "spew",
+            "stew",
+            "thew"
+        ],
+        "adj": [
+            "skew"
+        ]
+    },
+    "Bruce": {
+        "noun": [
+            "spruce",
+            "truce"
+        ],
+        "adj": [
+            "spruce"
+        ]
+    },
+    "Zain": {
+        "noun": [
+            "blain",
+            "drain",
+            "slain",
+            "spain",
+            "sprain",
+            "stain",
+            "swain"
+        ],
+        "adj": [
+            "slain"
+        ]
+    },
+    "Krew": {
+        "noun": [
+            "brew",
+            "clew",
+            "crew",
+            "flew",
+            "shrew",
+            "skew",
+            "slew",
+            "smew",
+            "spew",
+            "stew",
+            "thew"
+        ],
+        "adj": [
+            "skew"
+        ]
+    },
+    "Trey": {
+        "noun": [
+            "gley",
+            "prey",
+            "sley",
+            "trey",
+            "whey"
+        ],
+        "adj": [
+            "stey"
+        ]
+    },
+    "Sam": {
+        "noun": [
+            "clam",
+            "dram",
+            "flam",
+            "ma'am",
+            "pram",
+            "sham",
+            "slam",
+            "spam",
+            "tram",
+            "wham"
+        ],
+        "adj": [
+            "sham"
+        ]
+    },
+    "Zaid": {
+        "noun": [
+            "braid",
+            "plaid"
+        ],
+        "adj": [
+            "staid"
+        ]
+    },
+    "Tru": {
+        "noun": [
+            "cru",
+            "flu",
+            "gnu"
+        ],
+        "adj": [
+            "thru"
+        ]
+    },
+    "Creed": {
+        "noun": [
+            "bleed",
+            "breed",
+            "creed",
+            "gleed",
+            "greed",
+            "screed",
+            "steed"
+        ],
+        "adj": [
+            "treed"
+        ]
+    },
+    "Ty": {
+        "noun": [
+            "cry",
+            "ply",
+            "pry",
+            "shy",
+            "spy",
+            "sty",
+            "swy",
+            "tally",
+            "try",
+            "why"
+        ],
+        "adj": [
+            "moldy",
+            "shy",
+            "sly",
+            "spry"
+        ]
+    },
+    "Lee": {
+        "noun": [
+            "bree",
+            "ghee",
+            "gree",
+            "knee",
+            "mzee",
+            "ngwee",
+            "scree"
+        ],
+        "adj": [
+            "dree",
+            "mzee",
+            "twee"
+        ]
+    },
+    "Grey": {
+        "noun": [
+            "gley",
+            "prey",
+            "sley",
+            "trey",
+            "whey"
+        ],
+        "adj": [
+            "stey"
+        ]
+    },
+    "Rey": {
+        "noun": [
+            "gley",
+            "prey",
+            "sley",
+            "trey",
+            "whey"
+        ],
+        "adj": [
+            "stey"
+        ]
+    },
+    "Ben": {
+        "noun": [
+            "then",
+            "when"
+        ],
+        "adj": [
+            "then"
+        ]
+    },
+    "Bjorn": {
+        "noun": [
+            "scorn"
+        ],
+        "adj": [
+            "shorn",
+            "sworn"
+        ]
+    },
+    "Brock": {
+        "noun": [
+            "brock",
+            "chock",
+            "clock",
+            "crock",
+            "flock",
+            "frock",
+            "schlock",
+            "smock"
+        ],
+        "adj": [
+            "schlock"
+        ]
+    },
+    "Dash": {
+        "noun": [
+            "brash",
+            "clash",
+            "gnash",
+            "plash",
+            "smash",
+            "snash",
+            "splash",
+            "stash",
+            "thrash"
+        ],
+        "adj": [
+            "brash"
+        ]
+    },
+    "Lance": {
+        "noun": [
+            "chance",
+            "glance",
+            "prance",
+            "stance",
+            "trance"
+        ],
+        "adj": [
+            "chance"
+        ]
+    },
+    "Bear": {
+        "noun": [
+            "shear",
+            "smear",
+            "spear",
+            "swear"
+        ],
+        "adj": [
+            "blear",
+            "drear"
+        ]
+    },
+    "Ray": {
+        "noun": [
+            "bray",
+            "chay",
+            "cray",
+            "dray",
+            "fray",
+            "shay",
+            "splay",
+            "spray",
+            "stray",
+            "sway",
+            "tray"
+        ],
+        "adj": [
+            "splay",
+            "stray"
+        ]
+    },
+    "Cal": {
+        "noun": [
+            "dhal",
+            "metal"
+        ],
+        "adj": [
+            "anal",
+            "metal"
+        ]
+    },
+    "Cain": {
+        "noun": [
+            "blain",
+            "drain",
+            "slain",
+            "spain",
+            "sprain",
+            "stain",
+            "swain"
+        ],
+        "adj": [
+            "slain"
+        ]
+    },
+    "Kate": {
+        "noun": [
+            "crate",
+            "grate",
+            "prate",
+            "slate",
+            "spate"
+        ],
+        "adj": [
+            "blate",
+            "slate"
+        ]
+    },
+    "Shay": {
+        "noun": [
+            "bray",
+            "chay",
+            "cray",
+            "dray",
+            "fray",
+            "shay",
+            "splay",
+            "spray",
+            "stray",
+            "sway",
+            "tray"
+        ],
+        "adj": [
+            "splay",
+            "stray"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+@font-face {
+font-family: "work-sans";
+font-weight: 400;
+src: url("../files/fonts/WorkSans-Regular.ttf") format("truetype");
+}
+@font-face {
+font-family: "homemade-apple";
+font-weight: 400;
+src: url("../files/fonts/HomemadeApple-Regular.ttf") format("truetype");
+}
+
+body {
+	width: 99%;
+	display: flex;
+	flex-direction: column;
+	font-size: 2em;
+	background: #fcfac3;
+	color: #3f261c;
+	font-family: work-sans;
+	align-items: center;
+}
+
+div.content{
+}
+
+div.canvas{
+	margin-top: 6em;
+	margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+}
+
+div.ui {
+	background: #fcfac3;
+	position: fixed;
+	padding: none;
+	border-radius: 20%;
+	margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+div.ui>button{
+	font-family: "homemade-apple";
+	color: #3f261c;
+	font-size: 1.2em;
+	background: none;
+	margin: none;
+	border: none;
+	padding: none;
+	transition: .1s;
+}
+div.ui>button:hover{
+	transform: scale(1.05);
+}
