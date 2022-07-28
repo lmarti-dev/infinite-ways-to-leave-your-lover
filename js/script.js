@@ -51,8 +51,8 @@ function load_files() {
 			}
 		});
 		
-		console.log(rhymes_lists)
-		console.log(verbs_list)
+		//~ console.log(rhymes_lists)
+		//~ console.log(verbs_list)
 		
 		return [rhymes_lists,verbs_list,simple_verbs_list,simple_adjs_list]
 }
