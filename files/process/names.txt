@@ -5,6 +5,8 @@ John
 Luke
 Miles
 Kai
+Chad
+Brad
 Ian
 Beau
 Jace
